@@ -13,3 +13,4 @@ function dangerous(userInput, email) {
 // trigger webhook again
 // trigger webhook again
 // trigger again
+// trigger static fallback
